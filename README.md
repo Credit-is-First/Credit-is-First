@@ -1,44 +1,23 @@
 # 💫 About Me:
 - 👋 Hi, I’m @Credit-is-First
 <br>
-- 👀 I’m interested in web development, machine learning, and cybersecurity.
+- 👀 I’m interested in web development, blockchain and machine learning.
 <br>
 - 🌱 I’m currently learning Django for web development and deep learning techniques for machine learning.
 <br>
 - 💞️ I’m looking to collaborate on projects that involve creating innovative web applications or implementing machine learning algorithms.
 <br>
-- 📫 How to reach me: Feel free to send me a message on GitHub or reach out to me via email at coding.virtuoso.prodigy@gmail.com.
+- 📫 How to reach me: Feel free to send me a message on GitHub or reach out to me via email at credit.first@gunthy.org.
 <br>
 - 😄 Pronouns: He/His
 <br>
-- ⚡ Fun fact: I enjoy playing the piano and have been practicing for over 10 years.
 <br>
+I am an experienced Full-Stack developer with a proven track record of 10 years in web, mobile and blockchain app development.
 <br>
-I am an experienced Full-Stack developer with a proven track record of 7 years in web and mobile app development.
+Throughout my career, I have consistently demonstrated expertise in creating applications from inception to completion, employing scalable, robust, and meticulously documented code.
 <br>
-Throughout my career, I have consistently demonstrated expertise in creating applications from inception to completion, employing scalable, robust, and meticulously documented code. Currently,
+Currently, I am serving as a dedicated full stack developer, leveraging my passion for crafting high-quality applications from the ground up.
 <br>
-I am serving as a dedicated full stack developer, leveraging my passion for crafting high-quality applications from the ground up.
-<br>
-
-
-## 🌐 Socials:
-[![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/Coding-Virtuoso)
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/Coding-Virtuoso)
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Coding-Virtuoso)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Coding-Virtuoso)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Coding-Virtuoso)
-[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@Coding-Virtuoso)
-[![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/Coding-Virtuoso)
-[![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/Coding-Virtuoso)
-[![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Coding-Virtuoso)
-[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/Coding-Virtuoso)
-[![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@Coding-Virtuoso)
-[![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/Coding-Virtuoso)
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Coding-Virtuoso)
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@Coding-Virtuoso)
-[![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/Coding-Virtuoso)
-[![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?style=for-the-badge&logo=mastodon&logoColor=white)](https://mastodon.social/@Coding-Virtuoso) 
 
 # 💻 Tech Stack:
 
