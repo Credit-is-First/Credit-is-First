@@ -1,6 +1,5 @@
 # 💫 About Me:
-- 👋 Hi, I’m @Credit-is-First
-<br>
+
 - 👀 I’m interested in web development, blockchain and machine learning.
 <br>
 - 🌱 I’m currently learning Django for web development and deep learning techniques for machine learning.
