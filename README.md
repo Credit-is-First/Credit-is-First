@@ -2,20 +2,20 @@
 
 - 👀 I’m interested in web development, blockchain and machine learning.
 <br>
-- 🌱 I’m currently learning Django for web development and deep learning techniques for machine learning.
+- 🌱 Highly skilled Blockchain and Backend Developer with 10+ years of experience in building robust, scalable, and secure applications. Expertise in Rust, Golang, and Solidity for blockchain development, with deep knowledge of Cosmos-SDK, CosmWasm, and EVM-compatible chains
 <br>
-- 💞️ I’m looking to collaborate on projects that involve creating innovative web applications or implementing machine learning algorithms.
+- 💞️ Strong backend development experience using Node.js, Python, and PHP, with a solid foundation in databases (PostgreSQL, MySQL, MongoDB) and microservices architecture. Passionate about optimizing performance, enhancing security, and ensuring seamless API integrations.
 <br>
-- 📫 How to reach me: Feel free to send me a message on GitHub or reach out to me via email at credit.first@gunthy.org.
+- 📫 Demonstrated success in leading blockchain projects, collaborating with cross-functional teams, and delivering high-performance solutions. Excels in problem-solving, code optimization, and staying ahead of emerging blockchain technologies.
 <br>
 - 😄 Pronouns: He/His
 <br>
 <br>
-I am an experienced Full-Stack developer with a proven track record of 10 years in web, mobile and blockchain app development.
+Blockchain Development: Rust, Golang, Solidity, CosmWasm, Cosmos-SDK, EVM
 <br>
-Throughout my career, I have consistently demonstrated expertise in creating applications from inception to completion, employing scalable, robust, and meticulously documented code.
+Backend Development: Node.js, PHP, Python, PostgreSQL, MongoDB
 <br>
-Currently, I am serving as a dedicated full stack developer, leveraging my passion for crafting high-quality applications from the ground up.
+Cloud & DevOps: AWS, Docker, Kubernetes, CI/CD
 <br>
 
 # 💻 Tech Stack:
